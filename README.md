@@ -33,5 +33,5 @@ Thrilled to share my **EV Market sales Analysis** – an in-depth analysis of **
 4. Strengthen presence in high-performing regions through strategic partnerships.  
 
 ### **Live Dashboard**  
-[**Explore the Dashboard Here**](https://app.powerbi.com/view?r=eyJrIjoiZjRhMTQ0YWMtMmQxNi00MWU1LTg0ZjUtYTU4ODFhZjEzZjA5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
+[**Explore the Dashboard Here**](https://app.powerbi.com/view?r=eyJrIjoiZjRhMTQ0YWMtMmQxNi00MWU1LTg0ZjUtYTU4ODFhZjEzZjA5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) 
 
